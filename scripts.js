@@ -71,7 +71,7 @@ function trocaInfo(type) {
         <div>
 
             <div class="div-foto">
-                <img src="../assets/study.png" alt="icone" class="icone">
+                <img src="./assets/study.png" alt="icone" class="icone">
             </div>
      
 
@@ -91,12 +91,12 @@ function trocaInfo(type) {
 
         <h1 class = "titulo-trabalhos">Portfólio de Trabalhos</h1>
 
-        <a href=""> <img src="../assets/products.png" alt="icone"> </a>
-        <a href=""> <img src="../assets/products.png" alt="icone"> </a>
-        <a href=""> <img src="../assets/products.png" alt="icone"> </a>
-        <a href=""> <img src="../assets/products.png" alt="icone"> </a>
-        <a href=""> <img src="../assets/products.png" alt="icone"> </a>
-        <a href=""> <img src="../assets/products.png" alt="icone"> </a>
+        <a href=""> <img src="./assets/products.png" alt="icone"> </a>
+        <a href=""> <img src="./assets/products.png" alt="icone"> </a>
+        <a href=""> <img src="./assets/products.png" alt="icone"> </a>
+        <a href=""> <img src="./assets/products.png" alt="icone"> </a>
+        <a href=""> <img src="./assets/products.png" alt="icone"> </a>
+        <a href=""> <img src="./assets/products.png" alt="icone"> </a>
 
         </div>
 
@@ -127,7 +127,7 @@ function trocaInfo(type) {
 
         <div class="div-img">
 
-            <img class="logo" src="../assets/logo-site.png" alt="logo-site">
+            <img class="logo" src="./assets/logo-site.png" alt="logo-site">
 
         </div>
 
