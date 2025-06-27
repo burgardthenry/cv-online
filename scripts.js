@@ -47,7 +47,7 @@ function trocaInfo(type) {
 
         <div class="div-img">
 
-            <img class="minha-foto" src="../assets/miha foto.jpeg" alt="logo-site">
+            <img class="minha-foto" src="./assets/miha foto.jpeg" alt="logo-site">
 
         </div>
         
